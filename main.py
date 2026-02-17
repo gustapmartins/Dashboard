@@ -28,7 +28,7 @@ if arquivo:
         # 👇 Sidebar agora é componente
         tipo_grafico, eixo_x, eixo_y, filtros = render_sidebar(df, colunas_texto)
 
-        # -------- Aplicar filtros --------
+        # -------- Aplicar filtros --------~--
 
         df_filtrado = df.copy()
 
