@@ -1,3 +1,5 @@
-narwhals==2.16.0
-packaging==26.0
-plotly==6.5.2
+streamlit
+pandas
+plotly
+openpyxl
+streamlit-js-eval
